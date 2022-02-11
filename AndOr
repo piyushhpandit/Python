@@ -1,0 +1,7 @@
+#and and or operator
+name = "Piyush"
+age = 20
+if name=='piyush' or age==30:
+    print("condition true")
+else:
+    print("condition false")
